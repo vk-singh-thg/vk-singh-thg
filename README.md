@@ -41,11 +41,11 @@ I believe in the power of continuous learning and knowledge sharing. My approach
 ### 📊 GitHub Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vk-singh-thg&show_icons=true&theme=github_dark&hide_border=true" alt="vk-singh-thg's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vk-singh-thg&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="vk-singh-thg's GitHub stats" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vk-singh-thg&theme=github-dark-blue&hide_border=true" alt="vk-singh-thg's streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vk-singh-thg&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="vk-singh-thg's streak" />
 </p>
 
 ---
